@@ -1,0 +1,15 @@
+{
+  "type": "number",
+  "config": {
+    "placeholder": {
+      "type": "text",
+      "placeholder": "Placeholder",
+      "value": "Number"
+    },
+    "value": {
+      "type": "number",
+      "placeholder": "Value",
+      "value": ""
+    }
+  }
+}
