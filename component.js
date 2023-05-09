@@ -13,7 +13,7 @@ export class Component {
   }
 
   getValue() {
-    return this.input.component.value;
+    return Number(this.input.component.value);
   }
 
   async setValue(value) {
